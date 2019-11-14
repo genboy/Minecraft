@@ -12,8 +12,16 @@ Extended Minecraft Launcher with many features
 [More info @ multimc.org](https://multimc.org/) 
 
 ## [MCEdit](http://www.mcedit.net)
-(Saved) game editor for Minecraft (Java edition) Worlds
+(Saved) world editor for Minecraft (Java edition)
 [More info @ mcedit.net](http://www.mcedit.net)
+
+## [Blockbench](https://blockbench.net/)
+3d blockmodel editor (app and web) with multiple object formats
+[More info @ blockbench.net](https://blockbench.net)
+
+## [MCLauncher](https://github.com/MCMrARM)
+Multiversion Minecraft Launcher
+[More info @ github.com/MCMrARM](https://github.com/MCMrARM)
 
 ## [TLauncher](https://tlauncher.org)
 Extended Minecraft Launcher with or without server sign in, easy mods & skinning
